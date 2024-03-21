@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zung0
 - 👀 I’m interested in becomming a dev
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning at ENI école informatique
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
