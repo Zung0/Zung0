@@ -1,11 +1,30 @@
-- 👋 Hi, I’m @Zung0
-- 👀 I’m interested in every kind of web projects
-- 🌱 I’m currently learning at ENI école informatique
-- 💻 Working for Experis Manpower Group
-- 💞️ I’m looking to collaborate on Node and symfony related projects
-- 📫 How to reach me... 
+# Hi, I'm Zung0 👋
 
-<!---
-Zung0/Zung0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **Student** | 💼 Working at **Experis**
+
+---
+
+### 🚀 About Me
+
+- Currently balancing life as a student and a professional at Experis.
+- Passionate about coding and learning new technologies.
+- Former bartender—bringing people skills to tech!
+
+---
+
+### 🛠️ Top Skills
+
+- **TypeScript**
+- **Java** & **Spring**
+- **Symfony**
+- Exploring **Rust**
+
+---
+
+### 🔍 Always curious, always learning.
+
+---
+
+<!--
+**Zung0/Zung0** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
